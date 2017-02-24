@@ -16,7 +16,6 @@ cacheSolve <- function(x, ...) {
 # My solution 
 
 # Date: 24.02.2017
-# Author: Victoria Barth
 
 # Title: Assignment 2
 
